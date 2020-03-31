@@ -1,0 +1,64 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+.box
+{
+
+  margin:auto;
+  width : 300px;
+  min-height: 100px;
+  background-color:cadetblue;
+  text-align: left;
+  color:darkblue;
+  box-sizing: content-box;
+  border-Radius:12px;
+  display:block;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 22px;
+  
+}
+.box1
+{
+
+  margin:auto;
+  width : 300px;
+  min-height: 100px;
+  background-color:cadetblue;
+  text-align: left;
+  color:darkblue;
+
+  border-Radius:12px;
+  display:block;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 22px;
+  
+}
+.btn
+{
+  margin-left:770px;
+  font-Size:40px;
+  border-Radius:12px;
+  width:250px;
+  background-color:white;
+  color:darkblue;
+  box-shadow:0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+  font-family: 'Times New Roman', Times, serif;
+                        
+}
+.main
+{
+  min-width: 500px;
+  min-height: 500px;
+  background-color:darkcyan;
+  
+}
+
+
+
+.container
+{
+  padding-left: 10px;
+
+}
